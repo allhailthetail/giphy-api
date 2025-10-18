@@ -24,6 +24,9 @@ async function giphyAPIFetch() {
     let gifUrlList = [];
 
     // Now, we extract each URL we want to send back to caller function
+    //   This just seems more efficient than passing around the whole API if
+    //   we know that this is all we need. It could be more headache later to adjust this, though
+    //   if the app's needs were to change.
     for(let i = 0; i < apiData.data.length; i++) {
         let url = apiData.data[i].images.fixed_height.url;
         //DEBUG: print each url
