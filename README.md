@@ -5,6 +5,9 @@ This neat little site is an example of querying APIs, Giphy in this case,
 and handling the received JSON data. The goal of this site was to query Giphy and
 display some GIF images.
 
+## GitHub Pages:
+This site can be interacted with by visiting its [GitHub Pages URL](https://allhailthetail.github.io/giphy-api/)
+
 # ToDo:
 [x] Copy the starter repository
 [x] Create an API key with Giphy and finding the endpoint URLs
