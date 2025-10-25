@@ -9,10 +9,10 @@ display some GIF images.
 This site can be interacted with by visiting its [GitHub Pages URL](https://allhailthetail.github.io/giphy-api/)
 
 # ToDo:
-[x] Copy the starter repository <br>
-[x] Create an API key with Giphy and finding the endpoint URLs <br>
-[x] Updating the repository's code to fetch the GIFs (URLs) and display them (DOM interaction) <br>
-[ ] Extra - Implement full-fledged search functionality <br>
-[ ] Personal wants - clear the page each time button is pressed* <br>
+- [x] Copy the starter repository <br>
+- [x] Create an API key with Giphy and finding the endpoint URLs <br>
+- [x] Updating the repository's code to fetch the GIFs (URLs) and display them (DOM interaction) <br>
+- [ ] Extra - Implement full-fledged search functionality <br>
+- [ ] Personal wants - clear the page each time button is pressed* <br>
 
 > * Alternatively, it could display the next 4 images below the first... 🤔
